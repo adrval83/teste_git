@@ -1,2 +1,6 @@
 Esta ‚ a primeira linha 
+<<<<<<< HEAD
 linha conflito main 
+=======
+linha conflito 
+>>>>>>> conflito
