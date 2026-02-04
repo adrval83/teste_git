@@ -1,2 +1,3 @@
 Esta ‚ a primeira linha 
 linha conflito resolvido
+
